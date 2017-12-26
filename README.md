@@ -10,7 +10,7 @@ This example shows some basic capabilities of the click framework.
 
 I implemented also some simple unit tests. These unit tests show how you can test your click application.
 
-In order to show you a possible documentation approache the folder 'docs' contains a Sphinx based documentation of the sample application.
+In order to show you a possible documentation approach the folder 'docs' contains a Sphinx based documentation of the sample application.
  
 
 How To Install This Example
@@ -29,7 +29,7 @@ cd tests
 py.test -v
 ```
 
-How To Build the Documentation
+How To Build The Documentation
 ```
 cd docs
 
