@@ -29,7 +29,7 @@ cd tests
 py.test -v
 ```
 
-How To Build the documentation
+How To Build the Documentation
 ```
 cd docs
 
