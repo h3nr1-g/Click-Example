@@ -16,7 +16,7 @@ In order to show you a possible documentation approach the folder 'docs' contain
 How To Install This Example
 ---------------------------
 ```
-vituralenv -p /usr/bin/python3 venv && source venv/bin/activate
+virtualenv -p /usr/bin/python3 venv && source venv/bin/activate
 
 git clone https://github.com/h3nr1-g/Click-Example.git click-demo
 
@@ -24,12 +24,15 @@ cd click-demo && python setup.py install
 ```
 
 How To Run The Unit Tests
+-------------------------
 ```
 cd tests
+
 py.test -v
 ```
 
 How To Build The Documentation
+------------------------------
 ```
 cd docs
 
